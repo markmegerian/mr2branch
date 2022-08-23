@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="1fd4b6f2-5f89-4a0e-9fc5-e8f72f1218ad" name="vrn">
+        <fileTransfer rootFolder="/home/mmegerian" accessType="SFTP" host="ps602095.dreamhostps.com" port="22" sshConfigId="45f7dd56-9182-477b-be0f-8f5bf67b63c0" sshConfig="mmegerian@ps602095.dreamhostps.com:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
